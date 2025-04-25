@@ -1,0 +1,4 @@
+[submodule "libplacebo"]
+	path = libplacebo-sys/subprojects/libplacebo
+	url = https://github.com/haasn/libplacebo.git
+	ignore = untracked

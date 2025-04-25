@@ -1,0 +1,3 @@
+[workspace]
+members = ["libplacebo-rs", "libplacebo-sys", "vs-placebo"]
+resolver = "2"

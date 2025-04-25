@@ -1,0 +1,9 @@
+#include <libplacebo/shaders/sampling.h>
+#include <libplacebo/utils/upload.h>
+#include <libplacebo/colorspace.h>
+#include <libplacebo/dispatch.h>
+#include <libplacebo/gpu.h>
+#include <libplacebo/log.h>
+#include <libplacebo/options.h>
+#include <libplacebo/renderer.h>
+#include <libplacebo/vulkan.h>
